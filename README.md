@@ -1,20 +1,20 @@
-<h1 align="center">Hi <img src="https://github.com/Shohzod-xv/Shohzod-xv/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Shohzodbek Xayrullayev</h1>
+<h1 align="center">Hi <img src="https://github.com/Shohzod-xv/Shohzod-xv/blob/main/Wave.gif" height="55px" width="55px">, I'm Shohzodbek Xayrullayev</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Fullstack Developer
 
 ?></h3>
 <p align="center"> <img src="dev-working.gif" alt="Shohzod-xv"/> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Vue js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **XayrullayevShozhod1@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
@@ -31,8 +31,8 @@ Programmer | Content Creator | Learner
 <br />
 
 ### 🛠 &nbsp;Tech Stack
-![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
-![Css](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
+![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
+![Css](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
