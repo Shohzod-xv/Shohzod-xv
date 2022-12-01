@@ -4,7 +4,7 @@
 Fullstack Developer
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="Shohzod-xv" width="100px" height="100px"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="Shohzod-xv" width="300px" height="300px"/> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
