@@ -35,7 +35,7 @@ Fullstack Developer
 ![Css](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind Css-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
@@ -44,12 +44,18 @@ Fullstack Developer
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 <br />
 ### Profile Visitors
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Shohzod-xv.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shohzod-xv&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Shohzod-xv/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
