@@ -1,11 +1,3 @@
-<h1 align="center">Hi <img src="https://github.com/Shohzod-xv/Shohzod-xv/blob/main/Wave.gif" height="55px" width="55px">, I'm Shohzodbek Xayrullayev</h1>
-<h3 align="center">¯\_(ツ)_/¯
-
-Fullstack Developer
-
-?></h3>
-<p align="center"> <img src="dev-working.gif" alt="Shohzod-xv" width="300px" height="300px"/> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JavaScript, Vue js**
@@ -14,7 +6,7 @@ Fullstack Developer
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **XayrullayevShozhod1@gmail.com**
+- 📫 How to reach me **XayrullayevShohzod1@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
