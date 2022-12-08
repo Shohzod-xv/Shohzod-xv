@@ -10,14 +10,6 @@
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
-### Connect with me:
-
-[<img align="left" alt="Seon.uz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shahzodbek Xayrullayev | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Shahzodbek Xayrullayev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### 🛠 &nbsp;Tech Stack
 ![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)&nbsp;
